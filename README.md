@@ -1,5 +1,5 @@
 
-# NodeJs with Typescript,ESlint & Prettier
+# NodeJs with Typescript, ESlint & Prettier
 
 
 
